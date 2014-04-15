@@ -1,0 +1,60 @@
+City,Country,ASN Name,SHODAN / SCAN Scan Date,Model/Version,Source of Data,Classification,Product
+Riyadh,Saudi Arabia,SAUDINETSTC-AS Autonomus System Number for SaudiNet,23.04.2012,Blue Coat SG8100,SHODAN / SCAN,ISP,ProxySG
+Kuwait,Kuwait,MADA-AS Mada Communications,08.05.2012,Blue Coat SG8100,SHODAN / SCAN,ISP,ProxySG
+Riyadh,Saudi Arabia,SAUDINETSTC-AS Autonomus System Number for SaudiNet,06.11.2012,Blue Coat SG8100,SHODAN / SCAN,ISP,ProxySG
+Abu Dhabi,United Arab Emirates,EMIRATES-INTERNET Emirates Telecommunications Corporation,01.01.2013,Blue Coat SG8100,SHODAN / SCAN,ISP,ProxySG
+Abu Dhabi,United Arab Emirates,EMIRATES-INTERNET Emirates Telecommunications Corporation,,,SCAN,ISP,ProxySG
+Abu Dhabi,United Arab Emirates,EMIRATES-INTERNET Emirates Telecommunications Corporation,,,SCAN,ISP,ProxySG
+Abu Dhabi,United Arab Emirates,EMIRATES-INTERNET Emirates Telecommunications Corporation,,,SCAN,ISP,ProxySG
+Abu Dhabi,United Arab Emirates,EMIRATES-INTERNET Emirates Telecommunications Corporation,,,SCAN,ISP,ProxySG
+Doha,Qatar,GCC-MPLS-PEERING Qatar Telecom (Qtel) Q.S.C.,,,FROM PRIOR RESEARCH,ISP,ProxySG
+Cairo,Egypt,ETISALAT-MISR (Hostname refers to nile-online),10.08.2012,Blue Coat SG400,SHODAN / SCAN,ISP,ProxySG
+Seoul,South Korea,NICNET Korea Telecom-PUBNET,04.07.2010,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Seocho,South Korea,HANARO-AS Hanaro Telecom Inc.,18.03.2012,Blue Coat PacketShaper 8.7.3,SHODAN / SCAN,ISP,PacketShaper
+Petaling Jaya,Malaysia,"TMNET-AS-AP TM Net, Internet Service Provider",08.04.2012,Blue Coat PacketShaper 8.6.6,SHODAN / SCAN,ISP,PacketShaper
+Selangor,Malaysia,MYKRIS-AS-MY MyKRIS Asia Sdn Bhd,15.05.2012,Blue Coat PacketShaper 8.5.4,SHODAN / SCAN,ISP,PacketShaper
+Caracas,Venezuela,"CANTV Servicios, Venezuela",03.08.2012,Blue Coat PacketShaper 8.5.2,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,10.08.2012,Blue Coat PacketShaper 9.1.1,SHODAN / SCAN,ISP,PacketShaper
+Baghdad,Iraq,ALMADINAH-AS City Telecom Co. LTD.,15.08.2012,Blue Coat PacketShaper 8.5.5,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,23.08.2012,Blue Coat PacketShaper 8.7.3,SHODAN / SCAN,ISP,PacketShaper
+Guangzhou,China,"CHINANET-BACKBONE No.31,Jin-rong Street",23.08.2012,Blue Coat PacketShaper 8.7.2,SHODAN / SCAN,ISP,PacketShaper
+Salmiya,Kuwait,GULFNET-KUWAIT Gulfnet Kuwait,30.08.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Lagos,Nigeria,IPNXng,06.09.2012,Blue Coat PacketShaper 8.4.2,SHODAN / SCAN,ISP,PacketShaper
+Riyadh,Saudi Arabia,ITC ITC AS number,08.09.2012,Blue Coat PacketShaper 8.5.5,SHODAN / SCAN,ISP,PacketShaper
+Singapore,Singapore,ERX-SINGNET SingNet,09.09.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Petaling Jaya,Malaysia,MAXIS-AS1-AP Binariang Berhad,21.09.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Doha,Qatar,QA-ISP Qatar Telecom (Qtel) Q.S.C.,21.09.2012,Blue Coat PacketShaper 8.4.2,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,23.09.2012,Blue Coat PacketShaper 8.7.2,SHODAN / SCAN,ISP,PacketShaper
+Kuala Lumpur,Malaysia,ERX-JARING JARING Communications Sdn Bhd.,24.09.2012,Blue Coat PacketShaper 8.5.2,SHODAN / SCAN,ISP,PacketShaper
+Kuala Lumpur,Malaysia,ERX-JARING JARING Communications Sdn Bhd.,24.09.2012,Blue Coat PacketShaper 9.1.3,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,07.11.2012,Blue Coat PacketShaper 8.7.3,SHODAN / SCAN,ISP,PacketShaper
+Bangkok,Thailand,CSLOXINFO-AS-AP CS LOXINFO PUBLIC COMPANY LIMITED,22.11.2012,Blue Coat PacketShaper 8.5.5,SHODAN / SCAN,ISP,PacketShaper
+Krishna,India,BBIL-AP BHARTI Airtel Ltd.,12.12.2012,Blue Coat PacketShaper 8.4.2,SHODAN / SCAN,ISP,PacketShaper
+Beirut,Lebanon,IncoNet Data Management sal,12.12.2012,Blue Coat PacketShaper 8.4.2,SHODAN / SCAN,ISP,PacketShaper
+Kuala Lumpur,Malaysia,"TMNET-AS-AP TM Net, Internet Service Provider",13.12.2012,Blue Coat PacketShaper 8.7.1,SHODAN / SCAN,ISP,PacketShaper
+Nairobi,Kenya,NSS-UK New Skies Satellites UK AS,14.12.2012,Blue Coat PacketShaper 8.4.4,SHODAN / SCAN,ISP,PacketShaper
+Kuala Lumpur,Malaysia,ERX-JARING JARING Communications Sdn Bhd.,20.12.2012,Blue Coat PacketShaper 8.5.3,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,NICNET Korea Telecom-PUBNET,20.12.2012,Blue Coat PacketShaper 8.4.6,SHODAN / SCAN,ISP,PacketShaper
+Nairobi,Kenya,AS12440 Hughes Network Systems GmbH,20.12.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Kuala Lumpur,Malaysia,"TMNET-AS-AP TM Net, Internet Service Provider",22.12.2012,Blue Coat PacketShaper 8.5.2,SHODAN / SCAN,ISP,PacketShaper
+Nairobi,Kenya,AS12440 Hughes Network Systems GmbH,22.12.2012,Blue Coat PacketShaper 8.4.2,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,25.12.2012,Blue Coat PacketShaper 9.1.3,SHODAN / SCAN,ISP,PacketShaper
+Mumbai,India,RELIANCE-COMMUNICATIONS-IN Reliance Communications Ltd.DAKC MUMBAI,27.12.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,ISP,PacketShaper
+Seoul,South Korea,KIXS-AS-KR Korea Telecom,27.12.2012,Blue Coat PacketShaper 8.5.5,SHODAN / SCAN,ISP,PacketShaper
+Zhuhai,China,"CHINANET-BACKBONE No.31,Jin-rong Street",29.12.2012,Blue Coat PacketShaper 8.5.4,SHODAN / SCAN,ISP,PacketShaper
+Moscow,Russia,SOVAM-AS OJSC _Vimpelcom_,30.12.2012,Blue Coat PacketShaper 9.1.1,SHODAN / SCAN,ISP,PacketShaper
+Kuwait,Kuwait,FAST-TELCO Fast Telecommunications Company W.L.L.,30.12.2012,Blue Coat PacketShaper 8.7.3,SHODAN / SCAN,ISP,PacketShaper
+Madras,India,TATACOMM-AS TATA Communications formerly VSNL is Leading ISP,31.12.2012,Blue Coat PacketShaper 8.7.2,SHODAN / SCAN,ISP,PacketShaper
+Kabul,Afghanistan,GCN-DCN-AS AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,31.12.2012,Blue Coat PacketShaper 8.5.4,SHODAN / SCAN,Government,PacketShaper
+Mumbai,India,TATACOMM-AS TATA Communications formerly VSNL is Leading ISP,02.01.2013,Blue Coat PacketShaper 9.1.3,SHODAN / SCAN,ISP,PacketShaper
+Nairobi,Kenya,AFOL-KE-AS,02.01.2013,Blue Coat PacketShaper 8.6.5,SHODAN / SCAN,ISP,PacketShaper
+Manama,Bahrain,BIX-AS Bahrain Internet Exchange,31.12.2012,Blue Coat PacketShaper 8.4.4,SHODAN,Information Exchange,PacketShaper
+Riyadh,Saudi Arabia,ISU-RUH King Abdul Aziz City for Science and Technology,31.12.2012,Blue Coat PacketShaper 8.4.3,SHODAN / SCAN,Education,PacketShaper
+Gaziantep,Turkey,TTNET Turk Telekomunikasyon Anonim Sirketi,11.01.2013,Packeteer PacketShaper 7500,Google,ISP,PacketShaper
+Riyadh,Saudi Arabia,NOURNET-ASN Nour Communication Co.Ltd - Nournet,11.01.2013,Packeteer PacketShaper 7500,Google,ISP,PacketShaper
+Beirut,Lebanon,COBRANET-AS Cobranet Limited,11.01.2013,BlueCoat PacketShaper 12000,Google,ISP,PacketShaper
+Beirut,Lebanon,VISP-LB-AS Virtual ISP S.A.L.,11.01.2013,BlueCoat PacketShaper 10000,Google,ISP,PacketShaper
+Singapore,Singapore,VIEWQWEST-SG-AP Viewqwest Pte Ltd,11.01.2013,Packeteer PacketShaper 6500,Google,ISP,PacketShaper
+Cyberjaya,Malaysia,ARCNET-NTTMSC-MY Arcnet NTT MSC ISP,11.01.2013,Packeteer PacketShaper 6500,Google,ISP,PacketShaper
+Chengdu,China,"CHINANET-BACKBONE No.31,Jin-rong Street",11.01.2013,Packeteer PacketShaper 4500,Google,ISP,PacketShaper
+Jakarta,Indonesia,LINTASARTA-AS-AP Network Access Provider and Internet Service Provider,11.01.2013,BlueCoat PacketShaper 10000,Google,ISP,PacketShaper
