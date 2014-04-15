@@ -53,6 +53,8 @@ services.
 License
 ========
 
-All data is provided under Creative Commons Attribution 3.0 Unported license which is summarized [here](http://creativecommons.org/licenses/by/3.0/us/)
-and available in full [here](http://creativecommons.org/licenses/by/3.0/us/legalcode)
+All data is provided under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International and available in full
+[here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and summarized
+[here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
